@@ -141,7 +141,7 @@ cloud-mail
 
 ## 赞助
 
-<a href="https://doc.skymail.ink/support.html" >
+<a href="https://cloud-mail-support.app.workbuddy.host/" >
 <img width="170px" src="./doc/images/support.png" alt="">
 </a>
 
@@ -152,7 +152,7 @@ cloud-mail
 
 ## 交流
 
-[Telegram](https://t.me/cloud_mail_tg)
+[Telegram](https://t.me/+P9jEtWq-H543MTc1)
 
 
 
